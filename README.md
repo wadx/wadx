@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wadx
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning DirectShow, Direct2D, MP4 and MKV file formats
+- 🌱 I’m currently learning Discord REST and qt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - wad@inbox.lv
 
